@@ -1,0 +1,38 @@
+<resources>
+    <!-- App Name: Displayed in the App Drawer -->
+    <string name="app_name">Daily Weather</string>
+
+    <!-- Texts used in the UI -->
+    <string name="action_delete">Delete</string>
+    <string name="current_location">Current Location</string>
+    <string name="today">Today</string>
+    <string name="sunrise">Sunrise:</string>
+    <string name="sunset">Sunset:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="wind">Wind:</string>
+    <string name="feels_like">Feels Like:</string>
+    <string name="dew_point">Dew Point:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="visibility">Visibility:</string>
+    <string name="uv_index">UV Index:</string>
+    <string name="snow">Snow:</string>
+    <string name="rain">Rain:</string>
+    <string name="sleet">Sleet:</string>
+
+    <!-- Permissions and Errors -->
+    <string name="no_internet">No internet connectivity</string>
+    <string name="no_forecast">Cannot retrieve weather forecast</string>
+    <string name="location_denied">Location Denied</string>
+    <string name="no_device_location">Cannot retrieve device location</string>
+    <string name="cannot_delete_location">Current location can not be deleted</string>
+
+    <string name="dismiss">Dismiss</string>
+
+    <!-- AdMob Ad IDs: The IDs down below are dummy ones and can be used only for testing. Please
+        them with your real ones, when you are ready to publish the app to Google Play -->
+    <string name="banner_ad_unit_id">ca-app-pub-2228750387189292/1484189757</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-2228750387189292/9534124065</string>
+    <!--<string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>-->
+    <string name="googleplaceapikey">AIzaSyDvDqbeB7SZmu86H75QSQp_AJi5U-INQw0</string>
+    <string name="appId">ca-app-pub-2228750387189292~6169594125</string>
+</resources>

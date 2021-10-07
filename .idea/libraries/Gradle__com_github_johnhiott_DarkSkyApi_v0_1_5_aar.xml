@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.johnhiott:DarkSkyApi:v0.1.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/DarkSkyApi-v0.1.5.aar/10570ab0f64b237ec23c2eab490ae525/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/DarkSkyApi-v0.1.5.aar/10570ab0f64b237ec23c2eab490ae525/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/DarkSkyApi-v0.1.5.aar/c48592500764d5fe7c6a68623bcb81d5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/DarkSkyApi-v0.1.5.aar/c48592500764d5fe7c6a68623bcb81d5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/DarkSkyApi-v0.1.5.aar/c48592500764d5fe7c6a68623bcb81d5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
